@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ML-Agents/Examples/GridWorld/Demos/grdwrld.unity
+    guid: 96c393510edee4641aac0a281eddc15e
   m_configObjects: {}
